@@ -37,8 +37,8 @@
     "eslint-plugin-standard": "^4.1.0",
     "shaka-player": "^3.0.7",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "webpack": "^4.46.0",
+    "webpack": "^5.102.0",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^4.8.0"
+    "webpack-dev-server": "^5.2.2"
   }
 }
